@@ -23,7 +23,7 @@ You play as a soldier stranded inside an enemy army base camp surrounded by wood
 
 ---
 
-## ✅ Assignment Requirements Checklist
+## Assignment Requirements Checklist
 
 This project fulfils all required features of the **Enemy Shooting Assignment**:
 
@@ -35,7 +35,7 @@ This project fulfils all required features of the **Enemy Shooting Assignment**:
 
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 1. Start the game and explore the army base camp.
 2. **Collect coins** to increase your score. Watch the **Coin** counter on the top-left.
@@ -55,7 +55,7 @@ The entire game logic is built with Unreal Engine Blueprints.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Engine:** Unreal Engine 5.3.2
 - **Scripting:** Blueprints (visual scripting)
